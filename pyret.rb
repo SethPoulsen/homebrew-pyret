@@ -4,7 +4,7 @@ class Pyret < Formula
   desc "A functional scripting language geared toward education."
   homepage "https://www.pyret.org"
   url "https://registry.npmjs.org/pyret-npm/-/pyret-npm-0.0.16.tgz"
-  sha256 "eacbb9241ba6ecbc705f1f108d91a8e8560c6c913da36def73136ae0b71dfd6f"
+  sha256 "05dd83789506b81a9a04769b2a74cfb40e055acbdae0a74eb89fef8c90314552"
 
   depends_on "node"
 
